@@ -21,37 +21,8 @@ A small demo project to showcase Python, FastAPI, Retrieval-Augmented Generation
 - **Vector Store:** FAISS
 - **Deployment:** Docker, Docker Compose
 
----
 
-## 🗂️ Project Structure
-
-mini_rag_due_diligence/
-│
-├── app/
-│   ├── main.py
-│   ├── rag_pipeline.py
-│   ├── data_loader.py
-│   ├── requirements.txt
-│
-├── frontend/
-│   ├── pages/
-│   │   └── index.js
-│   ├── package.json
-│   ├── Dockerfile
-│   ├── next.config.js (optional) To be added later
-│   └── ...
-│
-├── docs/
-│   ├── NDA.txt
-│   ├── Financials.txt
-│   ├── Contract.txt
-│
-├── Dockerfile  # For backend
-├── docker-compose.yml
-├── README.md
-└── .env
-
-To run add a .env with an open ai api key
+To run add a .env file in the root directory with an open ai api key
 OPENAI_API_KEY=...
 
 Then with docker running, run this command: *docker-compose up --build* and then visit http://localhost:3000
