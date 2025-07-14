@@ -1,0 +1,17 @@
+SERVICE AGREEMENT CONTRACT
+
+This Service Agreement is made effective as of February 1, 2024, by and between AlphaTech Inc. (“Provider”) and Delta Partners Ltd. (“Client”).
+
+1. Services: Provider agrees to deliver custom software development and maintenance services.
+
+2. Term & Termination: The contract term is twelve (12) months with automatic renewal unless either party provides thirty (30) days written notice prior to the renewal date.
+
+3. Payment: Client agrees to pay Provider $15,000 per month, invoiced on the first day of each month.
+
+4. Liability: Provider shall not be liable for any indirect or consequential damages arising out of this Agreement.
+
+5. Dispute Resolution: Any disputes shall be resolved under the laws of the State of Delaware.
+
+Signed:
+AlphaTech Inc.
+Delta Partners Ltd.

@@ -1,0 +1,22 @@
+FINANCIAL SUMMARY – FY 2023
+
+Company: AlphaTech Inc.
+Fiscal Year Ending: December 31, 2023
+
+Revenue: $12,500,000
+Cost of Goods Sold (COGS): $4,200,000
+Gross Profit: $8,300,000
+
+Operating Expenses:
+  - Research & Development: $1,500,000
+  - Sales & Marketing: $1,200,000
+  - General & Administrative: $1,000,000
+
+EBITDA: $4,600,000
+Net Income: $3,800,000
+
+Key Financial Ratios:
+  - Gross Margin: 66.4%
+  - Net Profit Margin: 30.4%
+
+The company maintains no long-term debt and has a positive cash flow position. Major revenue drivers include its SaaS product suite and new enterprise contracts signed in Q4.
